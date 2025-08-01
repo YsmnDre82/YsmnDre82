@@ -28,14 +28,45 @@ Every line of code I write brings me closer to my dream of becoming a creative a
 
 ---
 
-## 📂 Some of My Projects
+## 💼 My Projects
 
-- 🧮 Calculator with conditionals (JS)
-- 🍇 Fruit Filter App
-- 🎡 Loading Spinner (CSS animation)
-- (More coming soon...)
+Here are some of the projects I've worked on during my front-end learning journey.  
+You can find more in my [repositories](https://github.com/YsmnDre82?tab=repositories) ✨
 
-Check them out in my pinned repositories!
+---
+
+### 🍓 *Fruit Project*  
+A simple and colorful fruit store UI built with HTML & CSS.  
+🔗 [View on GitHub](https://github.com/YsmnDre82/FruitProject)
+
+---
+
+### 🧮 *JavaScript Calculator (If-Else Structure)*  
+A basic calculator logic implemented using conditional statements in JavaScript.  
+🔗 [View Commit](https://github.com/YsmnDre82/JSpractice/commit/927324489f356406b1b62eb7b3ced9ec294bc8d4)
+
+---
+
+### 🥤 *Drink Order (JavaScript Practice)*  
+Simulates a drink ordering system through console interaction using JS.  
+🔗 [View Commit](https://github.com/YsmnDre82/JSpractice/commit/dfa5fc3ee49282894cf2d9a7a044641af079e694)
+
+---
+
+### 🔄 *Loading Spinner with CSS*  
+A smooth CSS-only loading animation (spinner).  
+🔗 [View Commit](https://github.com/YsmnDre82/CSSproject/commit/9d209dd91676e586e386ce027a176f8fe9bddf97)
+
+---
+
+### ⌨️ *Typing Animation with CSS*  
+Typing effect for rotating multiple job titles using pure CSS.  
+🔗 [View Commit](https://github.com/YsmnDre82/CSSproject/commit/71901807c62fcf02caa2f5708242d90a32808b85)
+
+---
+
+### 🧰 *...and many more!*  
+You can explore other small and experimental projects in my [GitHub repositories](https://github.com/YsmnDre82?tab=repositories). I'm constantly learning and building 
 
 ---
 
