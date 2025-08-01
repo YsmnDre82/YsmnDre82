@@ -1,39 +1,54 @@
-<h1 align="center">سلام، من یاسی‌ام 👋</h1>
+# 👋 Hi, I'm Yasi!
 
-<p align="center">
-💻 عاشق دنیای برنامه‌نویسی فرانت‌اند  
-🌱 در حال یادگیری HTML, CSS, JavaScript و React  
-📚 همیشه دنبال رشد و یادگیریم  
-🎯 هدفم تبدیل شدن به یه برنامه‌نویس حرفه‌ای با درآمد عالیه  
-</p>
+### A passionate Frontend Developer from Iran 🇮🇷  
+I’m learning how to turn ideas into beautiful and responsive websites.  
+Every line of code I write brings me closer to my dream of becoming a creative and confident developer 💻✨
 
 ---
 
-### 📌 مهارت‌هایی که بلدم:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 💼 Skills
+
+- HTML5 & CSS3
+- JavaScript (Vanilla JS)
+- Bootstrap
+- Tailwind CSS
+- Git & GitHub
+- Responsive Design
+- UI/UX Fundamentals (in progress)
+- React (coming soon!)
 
 ---
 
-### 🧩 پروژه‌های من:
+## 🌱 Currently Working On
 
-- 🍉 [FruitProject](https://github.com/YsmnDre82/FruitProject)  
-- 📁 پروژه‌های بیشتر به زودی اضافه می‌شن...
-
----
-
-### 💬 درباره من:
-- 👩‍💻 دانشجوی پرانرژی
-- ❤️ عاشق یادگیری چیزای جدید
-- ☕ با یه لیوان قهوه، کدنویسی شیرین‌تره 😁
+- JavaScript mini projects
+- Deepening my CSS & layout skills  
+- Starting with React.js
 
 ---
 
-### 📊 آمار فعالیت‌هام:
-![Yasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YsmnDre82&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YsmnDre82&layout=compact)](https://github.com/YsmnDre82)
+## 📂 Some of My Projects
+
+- 🧮 Calculator with conditionals (JS)
+- 🍇 Fruit Filter App
+- 🎡 Loading Spinner (CSS animation)
+- (More coming soon...)
+
+Check them out in my pinned repositories!
 
 ---
 
-> 🌟 *ممنونم که به پروفایل من سر زدی!*
+## ✨ About Me
+
+I’m Yasi, a frontend developer in progress —  
+I enjoy learning by doing, solving small problems, and making things look pretty and work smoothly.  
+When I’m not coding, I might be admiring cats, dreaming of UI ideas, or drinking tea with code tutorials ☕💜
+
+---
+
+## 💬 Let’s Connect
+
+If you're learning frontend too or just like to share ideas, don’t hesitate to reach out.  
+Together we grow, build, and code!
+
+> "Small steps every day lead to big results." 🌱
