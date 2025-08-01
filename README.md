@@ -8,14 +8,15 @@ Every line of code I write brings me closer to my dream of becoming a creative a
 
 ## 💼 Skills
 
-- HTML5 & CSS3
-- JavaScript (Vanilla JS)
-- Bootstrap
-- Tailwind CSS
-- Git & GitHub
-- Responsive Design
-- UI/UX Fundamentals (in progress)
-- React (coming soon!)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
+![React (Soon)](https://img.shields.io/badge/React-coming_soon-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
 ---
 
